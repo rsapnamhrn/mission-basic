@@ -478,7 +478,7 @@ footer .credit a {
 
   .about .row .about-img {
     flex: 1 1 100%;
-    align-content: center;
+    text-align: center;
   }
 
   .about .row .about-img img {
